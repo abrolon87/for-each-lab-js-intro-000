@@ -9,7 +9,7 @@ function iterate(callback) {
   luckyNumbers.forEach(callback)
   return luckyNumbers
 }
-
+//passed
 function doToArray(array, callback) {
   array.forEach(callback);
 }
